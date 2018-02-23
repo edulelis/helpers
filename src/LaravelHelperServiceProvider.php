@@ -2,7 +2,7 @@
 
 use Illuminate\Support\ServiceProvider;
 
-class HelperServiceProvider extends ServiceProvider
+class LaravelHelperServiceProvider extends ServiceProvider
 {
     /**
      * register the service provider
